@@ -1,4 +1,3 @@
-# GlotsFormer
-GloTSFormer: Global Video Text Spotting Transformer
+# Gloma
 
-Paper under review. Codes will be released after the paper is accepted.
+Paper accepted by ICLR2025
